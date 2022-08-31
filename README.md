@@ -1,3 +1,4 @@
+<div align="center">
 <h1 align="center">Hi 👋, I'm Patrik Batista</h1>
 <h3 align="center">A passionate backend developer from Brazil</h3>
 
@@ -25,6 +26,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=patrikbatista&show_icons=true&locale=en" alt="patrikbatista" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=patrikbatista&" alt="patrikbatista" /></p>
-<div>
-  ![Snake animation](https://github.com/patrikbatista/patrikbatista/blob/output/github-contribution-grid-snake.svg)
-</div>  
+
+![](https://github.com/patrikbatista/patrikbatista/blob/output/github-contribution-grid-snake.svg)
+
+</div>
